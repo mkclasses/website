@@ -158,6 +158,8 @@ header {
   width: 25%;
 }
 
+
+
 .lesson-icon {
   position: relative;
 }
@@ -204,6 +206,14 @@ header {
   position: relative;
   top: 7px;
   box-shadow: none;
+}
+
+.discount-para{
+  color:red;
+  text-decoration: bold;
+}
+.discount-fee{
+  color:blue;
 }
 
 
